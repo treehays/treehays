@@ -28,9 +28,9 @@ versed in working with Microsoft SQL Server, MySQL, JavaScript, HTML, CSS and De
 >> I am an active blogger too, where I share whatever I've learned.
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treehays&layout=compact&theme=tokyonight&count_private=true" alt="treehays" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treehays&layout=compact&theme=tokyonight&count_private=true" alt="treehays" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=treehays&show_icons=true&theme=tokyonight&count_private=true" alt="treehays" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=treehays&show_icons=true&theme=tokyonight&count_private=true" alt="treehays" height="170" />
 </p>
 
 
