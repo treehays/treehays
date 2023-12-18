@@ -43,3 +43,4 @@ versed in working with Microsoft SQL Server, MySQL, JavaScript, HTML, CSS and De
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=treehays&theme=blue-green)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=treehays&" alt="longjian99" /> </p>
+![treehays's Streak](https://github-readme-streak-stats.herokuapp.com/?user=treehays&theme=tokyonight&hide_border=false)
